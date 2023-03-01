@@ -1,1 +1,3 @@
-# streamling
+# Streamling NowPlaying widget
+
+for OBS
