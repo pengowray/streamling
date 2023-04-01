@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.1.8474.19038</version>
-    <url>https://github.com/pengowray/streamling/releases/download/v1.1.8474.19038/streamling-win-installer.exe</url>
+    <version>1.2.8490.29549</version>
+    <url>https://github.com/pengowray/streamling/releases/download/v1.2.8490.29549/streamling-win-installer.exe</url>
     <changelog>https://github.com/pengowray/streamling/releases</changelog>
     <mandatory>false</mandatory>
-    <checksum algorithm="SHA256">8B14AD93ADB0F4844DF3FBE79171362F731FD23D5F816BAC3179A939D3CC256E</checksum>
+    <checksum algorithm="SHA256">2E4D4F525AF69E1A3F367AF6890884420A993DB2B0359639DA5E25C21BE0CA12</checksum>
 </item>
