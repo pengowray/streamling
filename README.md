@@ -12,16 +12,15 @@ More info: https://pengowray.itch.io/streamling
 
 Supported music players
 
-    Spotify
-    iTunes
-    Windows Media Player (WMP)
-    VLC
-    VirtualDJ — [VirtualDJ setup instruction](https://pengowray.itch.io/streamling/devlog/512005/virtualdj-setup-instructions)
-    Foobar2000
-    MusicBee
-    Deezer*
-    Groove*
-    Media Player Classic (MPC-HC)**
-    QuickTime Player
-    Osu!
-    
+- Spotify
+- iTunes
+- Windows Media Player (WMP)
+- VLC
+- VirtualDJ — [VirtualDJ setup instruction](https://pengowray.itch.io/streamling/devlog/512005/virtualdj-setup-instructions)
+- Foobar2000
+- MusicBee
+- Deezer*
+- Groove*
+- Media Player Classic (MPC-HC)**
+- QuickTime Player
+- Osu!
