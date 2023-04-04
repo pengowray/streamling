@@ -23,3 +23,4 @@ Supported music players
     Media Player Classic (MPC-HC)**
     QuickTime Player
     Osu!
+    VirtualDJ***
