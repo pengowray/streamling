@@ -23,4 +23,5 @@ Supported music players
 - Groove*
 - Media Player Classic (MPC-HC)**
 - QuickTime Player
+- Mixxx
 - Osu!
