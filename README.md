@@ -14,14 +14,17 @@ Supported music players
 
 - Spotify
 - iTunes
-- Windows Media Player (WMP)
 - VLC
+- Windows Media Player (WMP)
+- Nightbot app
+- Pretzel Rocks app — (requires setup)
 - VirtualDJ — [VirtualDJ setup instruction](https://pengowray.itch.io/streamling/devlog/512005/virtualdj-setup-instructions)
+- Traktor Pro  — (requires setup)
+- Mixxx
 - Foobar2000
 - MusicBee
+- Osu!
 - Deezer*
 - Groove*
 - Media Player Classic (MPC-HC)**
 - QuickTime Player
-- Mixxx
-- Osu!
