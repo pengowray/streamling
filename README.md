@@ -28,3 +28,4 @@ Supported music players
 - Groove*
 - Media Player Classic (MPC-HC)**
 - QuickTime Player
+- YouTube Music Desktop App (song title only for now)
