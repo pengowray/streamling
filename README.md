@@ -2,7 +2,11 @@
 
 Share whatever music you're playing on your stream.
 
-How it works: Streamling creates a local web server which gives you a custom browser source to show what you're playing in Spotify, VLC, iTunes, Foobar2000, or many other music players.
+How it works: 
+
+- Streamling creates a local web server which you show as an overlay in OBS or your streaming software. It displays what music you're playing in a style you can customize. Streamling will automatically detect what music player you're using and display the song title and artist, transition when the song changes, and disappear when the music stops or is paused.
+
+- Streamling is currently freeware. If you'd like a particular feature, consider reaching out and supporting future development.
 
 # [More info and download](https://pengowray.itch.io/streamling)
 
@@ -10,22 +14,55 @@ How it works: Streamling creates a local web server which gives you a custom bro
 
 More info: https://pengowray.itch.io/streamling
 
-Supported music players
+Supported music players include:
 
-- Spotify
-- iTunes
-- VLC
-- Windows Media Player (WMP)
-- Nightbot app
-- Pretzel Rocks app — (requires setup)
-- VirtualDJ — [VirtualDJ setup instruction](https://pengowray.itch.io/streamling/devlog/512005/virtualdj-setup-instructions)
-- Traktor Pro  — (requires setup)
-- Mixxx
+- AIMP
+- Amazon Music
+- Apple Music + iTunes
+- Audacious
+- butt (broadcast using this tool) — [setup instruction](https://itch.io/t/2804241/butt-setup-instructions)
+- Deezer
+- Dopamine
 - Foobar2000
+- Jellyfin Media Player
+- Media Player (Microsoft)
+- Media Player Classic: Home Cinema (MPC-HC)
+- MediaMonkey
 - MusicBee
-- Osu!
-- Deezer*
-- Groove*
-- Media Player Classic (MPC-HC)**
+- Nightbot app
+- Osu! + Osu!Lazer
+- Pretzel Rocks app
+- Resonic Player
+- Soundcloud (website)
+- Spotify
+- Strawberry Music Player
+- Tidal
+- VLC
+- Winamp
+- Windows Media Player Legacy (WMP12)
+- XMPlay
+- YouTube Music Desktop App
+- Youtube + Youtube Music (in browser)
+
+Music Websites: (in Chrome, Firefox, Opera or Zen)
+
+- YouTube, YouTube Music, Spotify, Apple Music, Mixcloud, Monstercat, Tidal, Deezer, Amazon Music, Vimeo, Pocket Casts, Plex, JellyFin and more
+
+DJ software:
+
+- VirtualDJ — [setup instruction](https://pengowray.itch.io/streamling/devlog/512005/virtualdj-setup-instructions)
+- Traktor Pro — [setup instruction](https://itch.io/t/2804124/traktor-pro-instructions)
+- Mixxx
+
+<!-- 
+
+Obsolete / Discontinued: (some of these have dedicated support)
 - QuickTime Player
-- YouTube Music Desktop App (song title only for now)
+- Groove (used to need to be maximized; discontinued)
+- Pandora (not available Australia) (uncertain if works)
+- Google Play Music (uncertain if it works)
+- Clementine (superseded by Strawberry)
+
+-->
+
+Download from: https://pengowray.itch.io/streamling
