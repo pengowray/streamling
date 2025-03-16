@@ -22,7 +22,7 @@ Supported music players include:
 - Audacious
 - butt (broadcast using this tool) — [setup instruction](https://itch.io/t/2804241/butt-setup-instructions)
 - Deezer
-- Dopamine
+- Dopamine 3
 - Foobar2000
 - Jellyfin Media Player
 - Media Player (Microsoft)
