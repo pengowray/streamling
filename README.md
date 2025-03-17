@@ -1,4 +1,4 @@
-# Streamling Overlay app
+# STREAMLING Overlay app
 
 Share whatever music you're playing on your stream.
 
@@ -31,6 +31,7 @@ Supported music players include:
 - MusicBee
 - Nightbot app
 - Osu! + Osu!Lazer
+- PotPlayer
 - Pretzel Rocks app
 - Resonic Player
 - Soundcloud (website)
@@ -46,7 +47,7 @@ Supported music players include:
 
 Music Websites: (in Chrome, Firefox, Opera or Zen)
 
-- YouTube, YouTube Music, Spotify, Apple Music, Mixcloud, Monstercat, Tidal, Deezer, Amazon Music, Vimeo, Pocket Casts, Plex, JellyFin and more
+- YouTube, YouTube Music, Spotify, Apple Music, Mixcloud, Monstercat, Tidal, Deezer, Amazon Music, Vimeo, Pocket Casts, Plex, JellyFin, and more
 
 DJ software:
 
@@ -56,12 +57,12 @@ DJ software:
 
 <!-- 
 
-Obsolete / Discontinued: (some of these have dedicated support)
-- QuickTime Player
-- Groove (used to need to be maximized; discontinued)
-- Pandora (not available Australia) (uncertain if works)
+Obsolete / Discontinued:
+- QuickTime Player (still supported)
+- Groove (discontinued; may need to be maximized to work)
+- Pandora (no longer available Australia) (uncertain if works)
 - Google Play Music (uncertain if it works)
-- Clementine (superseded by Strawberry)
+- Clementine (revived in Strawberry)
 
 -->
 
