@@ -45,9 +45,9 @@ Supported music players include:
 - YouTube Music Desktop App
 - Youtube + Youtube Music (in browser)
 
-Music Websites: (in Chrome, Firefox, Opera or Zen)
+Music sites and web services: (in Chrome, Firefox, Opera or Zen)
 
-- YouTube, YouTube Music, Spotify, Apple Music, Mixcloud, Monstercat, Tidal, Deezer, Amazon Music, Vimeo, Pocket Casts, Plex, JellyFin, and more
+- YouTube, YouTube Music, Spotify, Apple Music, Mixcloud, Monstercat, Tidal, Deezer, Amazon Music, Vimeo, Pocket Casts, Plex, Airsonic, JellyFin, and more
 
 DJ software:
 
@@ -63,6 +63,7 @@ Obsolete / Discontinued:
 - Pandora (no longer available Australia) (uncertain if works)
 - Google Play Music (uncertain if it works)
 - Clementine (revived in Strawberry)
+- Winyl (will be supported next release; as will JetAudio)
 
 -->
 
