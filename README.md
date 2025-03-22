@@ -28,6 +28,7 @@ Supported music players include:
 - Media Player (Microsoft)
 - Media Player Classic: Home Cinema (MPC-HC)
 - MediaMonkey
+- mpv
 - MusicBee
 - Nightbot app
 - Osu! + Osu!Lazer
