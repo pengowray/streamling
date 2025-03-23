@@ -64,7 +64,7 @@ Obsolete / Discontinued:
 - Pandora (no longer available Australia) (uncertain if works)
 - Google Play Music (uncertain if it works)
 - Clementine (revived in Strawberry)
-- Winyl (will be supported next release; as will JetAudio)
+- Winyl (will be supported next release; as will JetAudio, Spider Player, and CherryPlayer, Clementine)
 
 -->
 
