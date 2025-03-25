@@ -56,15 +56,15 @@ DJ software:
 - Traktor Pro — [setup instruction](https://itch.io/t/2804124/traktor-pro-instructions)
 - Mixxx
 
-<!-- 
+Support coming next release:
+- Winyl, JetAudio, Spider Player, CherryPlayer, Clementine, aTunes, 1by1
 
+<!-- 
 Obsolete / Discontinued:
 - QuickTime Player (still supported)
 - Groove (discontinued; may need to be maximized to work)
 - Pandora (no longer available Australia) (uncertain if works)
 - Google Play Music (uncertain if it works)
-- Clementine (revived in Strawberry)
-- Winyl (will be supported next release; as will JetAudio, Spider Player, and CherryPlayer, Clementine)
 
 -->
 
